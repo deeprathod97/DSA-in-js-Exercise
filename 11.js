@@ -1,3 +1,6 @@
+// 1. Linear Search in Array
+// Problem: Implement a linear search algorithm to find the index of a specific element in an
+// array. If the element is not found, return -1.
 function linearSearch(arr, target) {
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] === target) {

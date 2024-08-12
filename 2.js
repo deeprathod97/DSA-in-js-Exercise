@@ -1,3 +1,7 @@
+// Reverse an Array
+// ● Problem: Reverse the elements of an array in place.
+// ● Example: reverseArray([1, 2, 3, 4]) should return [4, 3, 2, 1].
+
 function reverseArray(arr) {
     let left = 0;
     let right = arr.length - 1;

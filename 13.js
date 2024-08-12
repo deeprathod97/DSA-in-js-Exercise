@@ -1,3 +1,7 @@
+// 1. Bubble Sort
+// Problem: Implement the Bubble Sort algorithm to sort an array of numbers in ascending
+// order. Bubble Sort repeatedly steps through the list, compares adjacent elements, and
+// swaps them if they are in the wrong order.
 function bubbleSort(arr) {
     let n = arr.length;
     let swapped;

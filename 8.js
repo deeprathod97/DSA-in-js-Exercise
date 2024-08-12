@@ -1,3 +1,6 @@
+// Sort Array of Numbers
+// ● Problem: Sort an array of numbers in ascending order.
+// ● Example: sortArray([4, 2, 5, 1, 3]) should return [1, 2, 3, 4, 5].
 function bubbleSort(arr) {
     let n = arr.length;
     for (let i = 0; i < n - 1; i++) {

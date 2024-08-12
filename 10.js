@@ -1,3 +1,8 @@
+// Find Shortest String
+// ● Problem: Given an array of strings, find the shortest string in the array.
+// ● Example: findShortestString(["apple", "banana", "fig", "grape"])
+// should return "fig".
+
 // Using a Loop:
 
 function findShortestString(arr) {

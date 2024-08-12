@@ -1,3 +1,9 @@
+// Remove Duplicates
+// ● Problem: Given an array of numbers, remove all duplicate values and return the
+// array with unique values only.
+// ● Example: removeDuplicates([1, 2, 2, 3, 4, 4]) should return [1, 2,
+// 3, 4].
+
 function removeDuplicates(arr) {
     let uniqueArray = [];
 

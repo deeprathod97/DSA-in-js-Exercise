@@ -1,3 +1,7 @@
+// Count Occurrences of a String
+// ● Problem: Given an array of strings, count how many times a specific string appears.
+// ● Example: countOccurrences(["apple", "banana", "apple",
+// "orange"], "apple") should return 2.
 function countOccurrences(arr, target) {
     let count = 0;
 

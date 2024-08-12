@@ -1,3 +1,6 @@
+// 2. Linked List
+// Problem: Implement a simple singly linked list with basic operations like adding a node to
+// the end and displaying the list
 // Singly Linked List Implementation
 
 class Node {

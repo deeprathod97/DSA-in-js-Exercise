@@ -1,5 +1,6 @@
+// 3. Stack
+// Problem: Implement a stack using an array with basic operations: push, pop, and peek
 // Stack Implementation
-
 class Stack {
     constructor() {
         this.items = [];
